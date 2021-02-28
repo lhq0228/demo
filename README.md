@@ -1,2 +1,2 @@
 # demo
-practice for git
+这是一个练习git的项目
